@@ -1,13 +1,62 @@
 body{
-	font-family: comic sans MS, Helvetica,sans serif;
+	font-family: 'comic sans MS', Helvetica,'sans serif';
 	font-size:15px;
-	line-height:1.5;
+	line-height:1.5em;
 	padding:0;
 	margin:0;
 	background:#e4e4e4;
+	
 }
 
 .box1{
+	background-color:#34495e;
+	padding:40px;
+	color:white;
+	border-bottom:5px solid orange;
+}
+header,nav,section,footer{
 	width:80%;
-	margin:auto;
-    overflow:hidden;}
+	margin:20px auto;
+}	
+h1{
+	padding:20px;
+	text-transform:uppercase;
+	font-family:helvetica,'sans sreif';
+}
+nav ul{
+	padding:10;
+	}
+nav ul li{
+	display:inline;
+	font-size:22;
+	margin:10px;
+	padding:0;
+}
+a{
+	color:white;	
+}
+
+form{
+	padding:20px;
+}
+form label{
+	font-size:18;
+	padding:5px 10px;
+}
+input[type="text"]{
+	width:279px;
+	height:35px;
+}
+.appBoxes{
+	width:75%;
+	height:250px;
+	
+	}
+.images{
+	width:250px;
+	height:150px;
+}
+
+
+
+
