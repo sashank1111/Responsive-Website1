@@ -35,6 +35,7 @@ nav ul li{
 a{
 	color:white;	
 }
+	
 
 form{
 	padding:20px;
@@ -48,9 +49,10 @@ input[type="text"]{
 	height:35px;
 }
 .appBoxes{
-	width:75%;
+	margin:30px;
+	width:50%;
 	height:250px;
-	
+	float:left;
 	}
 .images{
 	width:250px;
