@@ -32,7 +32,7 @@ nav ul li{
 	margin:10px;
 	padding:0;
 }
-a{
+nav ul li a{
 	color:white;	
 }
 	
@@ -49,8 +49,9 @@ input[type="text"]{
 	height:35px;
 }
 .appBoxes{
+	padding:30px;
 	margin:30px;
-	width:50%;
+	width:250px;
 	height:250px;
 	float:left;
 	}
